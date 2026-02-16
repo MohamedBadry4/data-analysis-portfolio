@@ -17,17 +17,17 @@ The analysis focuses on **job demand, candidate interest (views), experience lev
 
 * The most **in-demand and most offered fields** are:
 
-  * **IT / Software**
-  * **Accounting**
-  * **Administration**
+  * **IT / Software**
+  * **Accounting**
+  * **Administration**
 * The cities with the **highest hiring activity** are:
 
-  * **Cairo**
-  * **Alexandria**
+  * **Cairo**
+  * **Alexandria**
 * The most **frequently posted job titles**, which are also among the **most searched**, are:
 
-  * **Accountant**
-  * **Sales**
+  * **Accountant**
+  * **Sales**
 
 ### Insight:
 
@@ -46,15 +46,15 @@ The analysis focuses on **job demand, candidate interest (views), experience lev
 
 * Some fields receive **high search interest but have relatively fewer job postings**, including:
 
-  * **Accounting**
-  * **HR**
-  * **Engineering**
-  * **Graphic Design**
+  * **Accounting**
+  * **HR**
+  * **Engineering**
+  * **Graphic Design**
 * There is **very high search interest in internships**, while the number of internship opportunities is limited.
 * The most searched **career levels** are:
 
-  * **Junior**
-  * **Mid-level**
+  * **Junior**
+  * **Mid-level**
 
 ### Insight:
 
@@ -72,21 +72,21 @@ The analysis focuses on **job demand, candidate interest (views), experience lev
 
 * When comparing **number of job postings with average views per field**, we found:
 
-  * A **shortage of jobs** in:
+  * A **shortage of jobs** in:
 
-    * Accounting
-    * HR
-    * Engineering
-    * Graphic Design
-  * **Banking jobs** show:
+    * Accounting
+    * HR
+    * Engineering
+    * Graphic Design
+  * **Banking jobs** show:
 
-    * Relatively **high candidate interest**
-    * **Low number of available positions**
+    * Relatively **high candidate interest**
+    * **Low number of available positions**
 * Fields with the **highest number of vacancies** tend to require **3–5 years of experience**, especially in:
 
-  * Customer Service
-  * Education
-  * Sales
+  * Customer Service
+  * Education
+  * Sales
 
 ### Insight:
 
@@ -104,8 +104,8 @@ The analysis focuses on **job demand, candidate interest (views), experience lev
 * Hiring activity **peaks in the first quarter (Q1)** of the new year.
 * Job seeker activity:
 
-  * Is **highest at the beginning of the year**
-  * Gradually **declines over time**
+  * Is **highest at the beginning of the year**
+  * Gradually **declines over time**
 
 ### Insight:
 
@@ -133,12 +133,12 @@ The analysis focuses on **job demand, candidate interest (views), experience lev
 
 * Increase job postings in:
 
-  * Accounting
-  * HR
-  * Engineering
-  * Graphic Design
-  * Banking
-  * Internships
+  * Accounting
+  * HR
+  * Engineering
+  * Graphic Design
+  * Banking
+  * Internships
 * Focus hiring efforts in **Q1**, when job seeker activity is highest.
 * Consider expanding hiring reach by **improving accessibility**, such as targeting candidates near **metro stations**.
 
@@ -153,4 +153,3 @@ The analysis focuses on **job demand, candidate interest (views), experience lev
 ## 🏁 Final Storytelling Message
 
 > This analysis highlights a clear imbalance between market demand and candidate interest in the Egyptian job market. By aligning hiring strategies with candidate behavior and seasonal trends, companies can reduce talent shortages, while job seekers can better position themselves for success.
- give me one like this scehma
