@@ -28,7 +28,8 @@ The analysis focuses on **Total Sales (GTV), Transaction Completion Rates, Regio
 ### Insight:
 
 > The business successfully scaled its revenue to over $10M with a diverse service offering that appeals equally to all customer needs across Egypt's major cities.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6389fe0f-17e6-49b2-8c89-5b1fb9d0749a" />
+<img width="1419" height="920" alt="Screenshot (793)" src="https://github.com/user-attachments/assets/4a6653be-7a2c-4049-b398-4eaa3c24815c" />
+
 ---
 
 ## 2️⃣ The Completion Crisis (Operational Red Flag)
@@ -76,7 +77,8 @@ The analysis focuses on **Total Sales (GTV), Transaction Completion Rates, Regio
 ### Insight:
 
 > We are losing our most valuable users. The "Hibernating" segment represents a massive "Ghost Town" of potential revenue that has moved to competitors.
-<img width="1452" height="920" alt="Screenshot (794)" src="https://github.com/user-attachments/assets/65560b55-85c8-4691-8bbe-19d672683405" />
+<img width="1452" height="920" alt="Screenshot (794)" src="https://github.com/user-attachments/assets/816eb9e4-3285-47e8-a6e3-c9bc198e8ff7" />
+
 
 ---
 
